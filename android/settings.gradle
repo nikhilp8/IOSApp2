@@ -1,0 +1,3 @@
+rootProject.name = 'HealthToStrava2'
+
+include ':app'
